@@ -1,0 +1,1 @@
+/usr/lib/hardening-wrapper/bin/c++  -g   CMakeFiles/open_images.dir/main.cpp.o  -o open_images 

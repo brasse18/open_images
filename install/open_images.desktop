@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=/opt/open_images/open_images %U
+Icon=/opt/open_images/open_images.png
+MimeType=inode/directory;image/gif;image/jpeg;image/png;image/bmp;image/x-eps;image/x-icns;image/x-ico;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/tiff;image/x-psd;image/x-webp;image/webp;image/x-tga;
+Name=open_images
+NoDisplay=true
+Type=Application
+Categories=Graphics;Viewer;Photography;

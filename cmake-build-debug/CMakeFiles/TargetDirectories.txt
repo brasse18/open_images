@@ -1,0 +1,3 @@
+/home/brasse/open-images/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/brasse/open-images/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/brasse/open-images/cmake-build-debug/CMakeFiles/open_images.dir
